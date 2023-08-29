@@ -6,5 +6,6 @@ This organization provides the implementaion and supplementary materials for **N
 - SoC Design: [NOP-SoC](https://github.com/NOP-Processor/NOP-SoC)
 - PMON Adaptation: [NOP-PMON](https://github.com/NOP-Processor/NOP-PMON)
 - Linux Adaptation: [NOP-Linux](https://github.com/NOP-Processor/NOP-Linux)
+- Submission and Presentation Objects: [NOP-Misc](https://github.com/NOP-Processor/NOP-Misc)
 
 Authors: [Mingdao Liu](https://github.com/Btlmd/), [Huan-ang Gao](https://github.com/c7w/), [Bowen Wang](https://github.com/abmfy) and [Jiacheng Hua](https://github.com/fleurs03).
